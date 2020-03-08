@@ -66,13 +66,14 @@ b {
 }
 
 .square {
-    height: 17em;
-    width: 45em;
-    background: rgba(116, 116, 116,0.9);
+    height: 80vh;
+    width: 70vw;
+    background: rgba(149, 149, 149, 0.9);
     color: black;
     padding-left: 2em;
     padding-right: 2em;
     padding-top: 2em;
+    border-radius: 0.2em;
 }
 
 .obal {
@@ -80,23 +81,22 @@ b {
 }
 
 .p2 {
-   font-size: 0.5em;
+   font-size: 1em;
    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
    color: black;
 }
 
 .btny2 {
 
-    width: 9.8em;
-    height: 7.1em;
-    border-radius: 0.2em;
-    transition: 0.5s;
-    background-color: rgb(255, 123, 0);
+ width: 9.8em;
+ height: 7.1em;
+ border-radius: 0.2em;
+ transition: 0.5s;
+ background-color: rgb(255,123,0);
 
 }
 
 .btny2 span {
-
 
     font-size: 1.5em;
     font-family: Tahoma;
