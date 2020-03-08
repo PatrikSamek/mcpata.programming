@@ -1,0 +1,44 @@
+
+
+button {
+    background-color: rgb(70, 70, 70);
+    
+    font-family: impact;
+    color: rgb(243, 243, 243);
+    
+    border-width: 0.2em;
+    border-color: rgb(0, 0, 0);
+    
+}
+
+#container {
+    display: flex;
+    justify-content:space-evenly ;
+    flex-flow: row wrap;
+    padding: 0;
+    margin: 0;
+}
+
+.btny {
+
+    width: 9.8em;
+    height: 7.1em;
+    border-bottom-left-radius: 2.5em;
+    border-bottom-right-radius: 2.5em;
+    border-top-left-radius: 0em;
+    border-top-right-radius: 0em;
+
+}
+
+.btny span {
+    font-size: 1.8em;
+    font-family: Tahoma;
+}
+
+.btny:hover {
+
+    width: 9.8em;
+    height: 8.1em;
+
+
+}
