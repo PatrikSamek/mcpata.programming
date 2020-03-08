@@ -1,0 +1,46 @@
+body{
+    color: rgb(65, 65, 65);
+    font-size: 2em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image: url("Hudebka.jpg");
+    padding-left: 2em;
+    letter-spacing: 0.15em;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: grey;
+
+}   
+
+h1 {
+    border-bottom: 2px solid rgb(66, 66, 66)
+}
+
+b {
+    font-size: 0.5em;
+    letter-spacing: 0px;
+    padding-bottom: 1;
+    color: rgb(51, 51, 51);
+}
+
+.square {
+    width: 20em;
+    height: 22em;
+    background-color: rgba(148, 148, 148, 0.795);
+    color: rgb(12, 12, 12);
+    padding-left: 2em;
+    padding-right: 2em;
+    padding-top: 1em;
+
+}
+
+.nadpis v {
+
+    font-size: 3em;
+
+}
+
+.obal {
+
+    padding: 2.5em;
+
+}
