@@ -66,9 +66,9 @@ b {
 }
 
 .square {
-    height: 17em;
-    width: 45em;
-    background: rgba(116, 116, 116,0.9);
+    height: 80vh;
+    width: 70vw;
+    background: rgba(149, 149, 149, 0.9);
     color: black;
     padding-left: 2em;
     padding-right: 2em;
